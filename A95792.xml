@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Unfortunate favourite, or, Memoirs on the life and actions of the late Lord Chancellour of England from his cradle to his grave. With what remarkably happen'd in his proceedings. : Together with a discourse by way of funeral sermon, on the fall of ambition.</title>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95792</idno><idno type="EEBO-CITATION">45504550</idno>
+  <idno type="VID">171863</idno>
+  <idno type="EEBO-PROQUEST">2240908863</idno>
+  
+            <idno type="STC">Wing U52</idno>
+            <idno type="STC">ESTC R185859</idno>
+            <idno type="OCLC">45504550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2594:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Unfortunate favourite, or, Memoirs on the life and actions of the late Lord Chancellour of England from his cradle to his grave. With what remarkably happen'd in his proceedings. : Together with a discourse by way of funeral sermon, on the fall of ambition.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball, in Pye Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689.</term>
+               <term type="topical_term">Funeral sermons --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171863:1"/>
+            <p>THE <hi>Vnfortunate Favourite:</hi> OR, MEMOIRS ON THE LIFE AND ACTIONS OF THE LATE Lord Chancellour Of <hi>ENGLAND, From his</hi> Cradle, <hi>to his</hi> Grave.</p>
+            <p>With what Remarkably happen'd in his Proceedings.</p>
+            <p>Together, With a Discourse by way of <hi>Funeral SERMON,</hi> On the Fall of AMBITION.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>P. Brookthy,</hi> at the Golden-Ball, in <hi>Pye-Corner,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:171863:2"/>
+            <pb n="3" facs="tcp:171863:2"/>
+            <head>THE Unfortunate Favourite, <hi>&amp;c.</hi>
+            </head>
+            <p>WHEN we enter upon matters of this kind, they ought not to be lightly and floridly passed over, but require a grave and se<g ref="char:EOLhyphen"/>rious consideration, though the subject may seem strange to many, therefore be<g ref="char:EOLhyphen"/>fore we further proceed, it is convenient to mind the Rea<g ref="char:EOLhyphen"/>der, that what is intended relates for the most part in mat<g ref="char:EOLhyphen"/>ter of subject to a person who has tryed the smiles and frowns of Fortune, in their most alluring and amazing Circum<g ref="char:EOLhyphen"/>stance; wherefore not longer to detain you by way of Pro<g ref="char:EOLhyphen"/>logue, or needless discourse, let us come seriously to enter upon what is materially intended.</p>
+            <p>The person who occasions this History or Discourse, has been of late the discourse not only of particular persons, but of the three Kingdoms, in whose prospect Ambition raised him like a Pyramide: As for his Birth it was not altogether inconsiderable; he was born in a village of <hi>Flintshire</hi> in <hi>Wales,</hi> for indeed there are no considerable Cities in those parts; his Parents lived, during his Infancy, upon a com<g ref="char:EOLhyphen"/>petency very frugal, having sufficiency to bring up this Son and others; but above the rest, finding him, as soon as he came to any years of discretion, to be of a tow'ring Spirit, and hardly amongst the Youths that were conversant with him as his boyish Consorts, would he brook an Equal, much more a Superiour, especially where he was capable of get<g ref="char:EOLhyphen"/>ting
+<pb n="4" facs="tcp:171863:3"/>the mastery, which according to the presages of the Ancients tending to something great though dangerous, his careful Parents sought as much as in them lay to stifle those sparks of Ambition that seemed so early to fly upward, yet seeing they would have their course, and there was no rea<g ref="char:EOLhyphen"/>sonable way to prevent them by mild and moderate Exhor<g ref="char:EOLhyphen"/>tations, his Father especially gave way to what his Son most passionately desired, so that suffering him to begin first with such Learning as that Country afforded him, and find<g ref="char:EOLhyphen"/>ing him exceeding prompt therein, he at the perswasion of some Gentlemen in those parts sent him to <hi>Westminster</hi> School, in order to furnish him with a higher strain of Edu<g ref="char:EOLhyphen"/>cation and Learning, where he very much improved, inso<g ref="char:EOLhyphen"/>much that the good Old Gentleman his Father, upon know<g ref="char:EOLhyphen"/>ledge that his Son was grown an expert Orator, propheti<g ref="char:EOLhyphen"/>cally declared his misfortune, by saying his parts would ru<g ref="char:EOLhyphen"/>in him; and if we credit Fame, it is reported soon after his coming thither, he dreamed he should be the head of that School, as by way of Captain, a term Familiar amongst Youths or School boys, and that he should after that become the greatest Man in the Kingdom, and flourish for a time, but then some extraordinary misfortune should overtake him, and bring all his towering greatness to ruin; and this, if we rightly consider, was fullfilled in the several Periods, as will in the Series of this discourse appear; and indeed there is more in Dreams by a Prophetical Impulse of the Souls of men, however some may redicule it, than we are aware of: But to come nearer those that know him in his younger days, to whom we appeal, are sensible that the first clause of hi<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dream was no fable; and as for the rest, few are ignorant he grew we say to be a proficient in Learning, and migh<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have stood high in the opinion of good men, had not Am<g ref="char:EOLhyphen"/>bition been his bane.</p>
+            <p>When this person still soaring towards greatness foun<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:171863:3"/>himself capable of removing from that School, eminent for raising many to unexpected advantages, tho' many things were proposed, yet nothing suited so well to his Inclinations, as the study of the Common-Law, and to that end he ear<g ref="char:EOLhyphen"/>nestly, not only by himself but his Friends, sollicited his Fa<g ref="char:EOLhyphen"/>ther almost with importunity to enter him a Student in one of the four Inns of Court, and in an unlucky hour so far pre<g ref="char:EOLhyphen"/>vailed, that he was received into the Inner-Temple, and by forward performance, almost before the usual time, procu<g ref="char:EOLhyphen"/>red to be called to the Bar, and although his practice at <hi>Westminster,</hi> was not at first considerable, restless and impa<g ref="char:EOLhyphen"/>tient of delay he tryed the Inferiour Courts and places of Judicature, and found them so beneficial by the way of a Crown for a Fee, that by the help of some Persons who took no small liking to his promptitude, he was incouraged especially in those holden at <hi>Guild-Hall, London,</hi> where an eminent Citizen of his name, tho' no Relation to him, get<g ref="char:EOLhyphen"/>ting the advantage of a Cause, wherein he was Counsel, so far advanced his Credit, by supplying with what money he at any time wanted to purchase any place, or raise himself as opportunity served, that by his, and the interest of others he got to be Common Serjeant of the <hi>City,</hi> in which station he carried himself so cunningly, that he gained the concern of many Eminent men, and not a few of the Majestracy, so that getting a first Wife of a considerable Fortune, with hers, and what himself had gotten, he was not wanting to let the World see it in some florrid entertainments and Antick hu<g ref="char:EOLhyphen"/>mours, especially amongst his country Relations, proving himself a Man of infinite Jest, and indeed his Tallent lay much that way, nor did he refrain it v. hen he rose to higher Degrees even in the midst of Judgment.</p>
+            <p>The Recordership of <hi>London</hi> being vacant by Sir <hi>John Howels</hi> giving place about the year 1677, he mist no oppor<g ref="char:EOLhyphen"/>tunity to ingratiate himself with the <hi>Aldermen</hi> and <hi>Commo<g ref="char:EOLhyphen"/>ners,</hi>
+               <pb n="6" facs="tcp:171863:4"/>and by the smoothness of his Tongue and help of his Friends, wrought himself into that important trust, and had the Papers and Writings of the <hi>Cities</hi> great concerns put into his hands, which swelled him in thought even above the Grandure of the <hi>City</hi> it self; for by this place having an opportunity to be often at <hi>Court,</hi> he began to thirst after <hi>Court Favour,</hi> thinking what he already possessed not suffi<g ref="char:EOLhyphen"/>cient for his Ambition, and from that time he dated, as we may say, his misfortune; for now the <hi>Popish Plot</hi> being dis<g ref="char:EOLhyphen"/>cover'd by Dr. <hi>Oats</hi> and others, he acted a while in his stati<g ref="char:EOLhyphen"/>on somewhat severe for the suppression of it, and pleaded strongly against such as were brought to Justice; and in his station passed Sentence in the <hi>Old-Baily</hi> on several Priests and <hi>Jesuits;</hi> but no sooner did he find that the minds of some great persons at Court were wholly bent to shamm and ri<g ref="char:EOLhyphen"/>dicule that Plot, but he turned his Sails to the Wind, and winked at the <hi>Papists,</hi> attempting to turn it on the Dissen<g ref="char:EOLhyphen"/>ters, and shift it from themselves; and when the People humbly Petitioned and besought that a Parliament might be called to redress Grievances, he protested against their way of proceeding by open abhorrence in <hi>Courts of Judicature,</hi> for which he was called the <hi>Abborrer;</hi> and some way or other at the procession of Burning the <hi>Pope</hi> on the Birth-day of Queen <hi>Elizabeth,</hi> set a person to ride with his face to the Horse-tail, with the Words, <hi>viz. I am an Abborrer,</hi> on his back; so that the City having found him too familiar at Court for their interest at that time, sent for their papers, and decently laid him aside, chusing the worthy Sir <hi>George Treby</hi> Recorder in his stead: This nettled a Man of his Spirit, al<g ref="char:EOLhyphen"/>though King <hi>Charles</hi> had cast his Favours on him, by making him Chief Justice of <hi>Chester,</hi> where his Countrey-Men of <hi>wales</hi> began to have the first bad opinion of him, for causing one to be Drawn, Hanged and Quartered, a thing not often done amongst those Mountaineers. And now the <hi>Papists</hi> rais<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:171863:4"/>their heads by laying the stress of their Design upon the Dissenters, he was made Chair-man at <hi>Hicks's-Hall</hi> Sessions, <hi>&amp;c,</hi> But this being too low in his esteem, though he did some persons notable service by it, the next thing we found he struck at was the <hi>City Charter,</hi> and so actively he labour'd that a <hi>Quo Warranto</hi> was brought, and in fine, Judgment was had against it, and divers eminent persons were brought in for Rioters, and severely Fined, against whom he mannaged the business; nor is his vehemeney against the Lord <hi>Russel</hi> at his Tryal in the <hi>Old Bayly</hi> to be forgotten, for his pressing the matter with his Oratory, did not (in the opinion of many) contribute the least to the Verdict that passed against that Unfortunate Gentleman; so that after the death of the Lord Chief Justice <hi>Saunders,</hi> he was made Lord Chief Justice of <hi>England,</hi> and in this station he first proceeded to Bayl the <hi>Po<g ref="char:EOLhyphen"/>pish</hi> Lords out of the <hi>Tower,</hi> who had been Committed by Parliament, and whose Bayling had been refused by several Lord Chief Justices.</p>
+            <p>King <hi>Charles</hi> the Second dying, and his Brother succeed<g ref="char:EOLhyphen"/>ing to the Throne, the <hi>Papists</hi> appeared bare-fac'd, and with so high a hand, that many who had Evidenced against them were forced to abscond or flye; however, two Informations for Perjury having been Exhibited against Dr. <hi>Titus Oats,</hi> he proceeded to Try him at the <hi>Kings-Bench</hi>-Bar, and being cast by Popish-Evidence, who Witnessed in a manner in their own cause, he received an unparallel'd Sentence to be Whip<g ref="char:EOLhyphen"/>ped, Fined, Stand in the Pillory Yearly, and Imprisoned for Life; which was put in Execution with extraordinary Ri<g ref="char:EOLhyphen"/>gour. <hi>Thomas Dangerfield</hi> run in a manner the same Risque, which cost him his Life, a Stick being run into his Eyes as he returned from his last Whipping.</p>
+            <p>And now the Duke of <hi>Monmouth</hi> Landing in the West, and being there discomfited, after a bloody Harvest, this per<g ref="char:EOLhyphen"/>son was sent down to Try such as were taken, and proved to the poor miserable people a greater terrour than the Sword,
+<pb n="8" facs="tcp:171863:5"/>condemning them by Hundreds, and causing their Quarters to be set up before the Doors of their Friends, and all along the Roads, even to the Infection of the Country; and many who did not dye by the hand of the Executioners, were thrust on Shipboard and sent as Slaves to the Plantations; Others were forced to flye into the Woods where they perished for want; some were Executed for harbouring their Friends, and particularly the Lady <hi>Lisle</hi> Beheaded, and a Woman Burnt at <hi>Tyburn;</hi> and for these good Offices done, soon after his return in Bloody Triumph, he had the Chancellorship of <hi>England</hi> conferred upon him, and his Children by a first and second Marriage highly promoted.</p>
+            <p>Now he being mounted on the High Commission-Chair, suspended the Bishop of <hi>London,</hi> awed the <hi>Clergy,</hi> outed the Corporations by his influence, and stood upon the very pi<g ref="char:EOLhyphen"/>nacle of Greatness; but as the old proverb has it, <hi>the Proud and haughty mind shall have a fall,</hi> for the <hi>Popish</hi>-measures be<g ref="char:EOLhyphen"/>ing broken by the Trying and clearing the Seaven Bishops, the cause began to droop, although this person had required the Names of such as had refused to Read the Declaration <hi>for Liberty of Conscience</hi> in the <hi>Churches,</hi> during Divine Service; that business was laid aside, and all of a sudden the wind chan<g ref="char:EOLhyphen"/>ged, the <hi>Dissenters</hi> were turned out, the <hi>Churchmen</hi> restored, the <hi>Cities</hi> and <hi>Corporations</hi> had their <hi>Charters,</hi> and on 11th. of <hi>Dec.</hi> 1688, this great man who had over-awed the Kingdom, and had his Ante-chambers crowded with throngs of Suitors, in the height of his Riches and Honour sneaked away, and was the next day taken in <hi>Hope</hi> and <hi>Anchor Alley,</hi> in the disguise of a poor <hi>Tarpaulin,</hi> endeavouring to make his escape beyond the Seas; and being brought before the Lord Mayor of <hi>London</hi> and sent to the <hi>Tower,</hi> where he was charged with a Warrant from the Lords, after having moved in vain for his <hi>Habeas Corpus,</hi> afflicted with the Stone and Gout, worn out with for<g ref="char:EOLhyphen"/>row, and not able to bear an affliction he reduced many to un<g ref="char:EOLhyphen"/>dergo, and far greater by excess in drinking to wash away his
+<pb n="9" facs="tcp:171863:5"/>sorrows, after some Languishment and expressions of grief for his mispent time, and warning all to beware of Ambition, desiring to be happy in another Life however he had lived in this: He dyed on <hi>Thursday</hi> the of <hi>April,</hi> and on <hi>Sunday</hi> fol<g ref="char:EOLhyphen"/>lowing, to prevent any violence that might be offered by in<g ref="char:EOLhyphen"/>raged persons in another place, was buried, after a view of the Body, in the <hi>Tower Chappel:</hi> And by this mans fall we may see what little trust there is to be given to the flatterers of Fo<g ref="char:EOLhyphen"/>tune or Greatness, of which I shall shew in the following dis<g ref="char:EOLhyphen"/>course, by way of Sermon to his Funeral Memory.</p>
+            <p>
+               <hi>The End of his Life.</hi>
+            </p>
+         </div>
+         <div type="sermon">
+            <head>The Humble and Meek shall be Exalted, but the Proud shall be Abased and brought low.</head>
+            <p>HAppy is that Man whose Soul inclines him not to soar above the reach of Reason and Discretion, weighed with a sound Judgment, for he shall stand fast, when <hi>Ioarus,</hi> like others, mounting too near the Sun, shall melt their waxen Wings: Ambition is the bane of hap<g ref="char:EOLhyphen"/>piness, and where it intrudes it renders the person restless and uneasie, raising a Tempest in his mind, and tossing his thoughts like a troubled Ocean; which made the wise men of all Ages, shun it as the mischief of the world; for to what madness does it forbear to carry and hurry Mankind, raising it self an Altar upon Ruin and Desolation, laying Ci<g ref="char:EOLhyphen"/>ties waste and Kingdoms in blood; which caused the wise man to call it <hi>a Dead Evil;</hi> and others have nam'd it <hi>the Plague of the world, the Misfortune of Mankind.</hi> If we re<g ref="char:EOLhyphen"/>member we were nothing before we were Conceived, and very inconsiderable in the first Regions of our dwellings, and many years weak and not capable of our selves, even weak beyond all other creatures, and in the rest of our lives great sinners against that Almighty Creator that gave us be<g ref="char:EOLhyphen"/>ing;
+<pb n="10" facs="tcp:171863:6"/>a debtor to Parents, to Creaures; and to the Elements; we would in this Remembrance swell beyond our bounds, and strive to raise our selves on Precipices and Pyramides of Danger, only to over-top and have power over our Neigh<g ref="char:EOLhyphen"/>bours: But Ambition, Pride and Haughtiness, blind the Souls of Men, that they consider not these things: But al<g ref="char:EOLhyphen"/>though they grow up to their first wishes, there they stop not, but are restless and uneasie, till like Flame, they may be ascending higher; some greater thing stands in their way, or some taller Cedar drops upon their Branches, or hinders them from a fuller prospect of the Sun; and let them but remove this, or ascend above the other, and they will promise to ask no more; but this obtained, they find the Clouds yet Screen them from the purer Skies, and they must needs rise higher, not minding to what Storms and Thunders such lofty Aspirings expose them, which sooner or later will rend them up by the roots, and leavel their tops with the humble Shrubs: Nor has any Age in the world wanted Examples of this kind; <hi>Cain,</hi> to raise himself higher in esteem, built the Stairs on his Brothers blood, and lost the favour of Heaven. <hi>Nimrod's</hi> project was overthrown by the confounding of Languages: <hi>Ely's</hi> Sons for their pride and Insolence, fell in the Battle: Proud <hi>Senaccherib</hi> was humbled by the destruction of his Hoast: <hi>Nabel,</hi> for his pride and Churlishness, lost his life: <hi>Absalom</hi> and <hi>Adonija,</hi> for too early Aspiring, set in Blood: and <hi>Nebuchadnezzar</hi> was driven out from amongst Men, to dwell on the Moun<g ref="char:EOLhyphen"/>tains, and with the wild Beasts of the Forrests: <hi>Herod,</hi> for his pride in <hi>Oratory,</hi> and refusing to give Glory to God, was eaten of Worms: And all along, those that followed the steps of Ambition, and proudly pressed to heights unman<g ref="char:EOLhyphen"/>nageable, have sunk as low, and found their folly in their ruine; and known at last, that it is better to be Good than Great. <hi>A good Conscience</hi> (says the Wise Man) <hi>is a continual Peast, but the end of Pride is bitterness.</hi> Had this person se<g ref="char:EOLhyphen"/>riously
+<pb n="11" facs="tcp:171863:6"/>weighed, it might have stopped him in the career of <hi>Pageantry Glory,</hi> and not in the end have left a sorrowful re<g ref="char:EOLhyphen"/>membrance. From what a dangerous height he is fallen! great things oppress themselves, and at all times want a firm foundation to support them; for if they are built on Sand, <hi>the Storm will come, and the Floods will beat, till great is their Fall.</hi> Holy <hi>Job</hi> says of the proud and wicked Man, That <hi>they are as Stubble before the Wind, and as Chaff that the Storm carryeth away: God layeth up his Iniquity for his Children; he rewardeth him, and he shall know it: His eyes shall see his destruction, and he shall drink the Wrath of the Almighty,</hi> Job 21.18, 19, 20. For although for a time God may seem to wink at Cruelty and Oppression, yet his Bolts are sure; his hand is not short'ned; for, as the same person says, <hi>How of<g ref="char:EOLhyphen"/>ten is their Candle put out? and how often cometh their de<g ref="char:EOLhyphen"/>struction on them? God distributes Sorrow in his Anger,</hi> ver. 17. <hi>The cryes of the Widdows and Fatherless, come up before him, and he will remember the Iniquities of their Oppressors; even the Poor are precious in the sight of the Almighty, and he will a<g ref="char:EOLhyphen"/>venge their Blood upon the destroyer, and will soon let him see, that Pride goeth before Destruction, and a Haughty mind before a Fall,</hi> Prov. 16.18. And that <hi>Better it is to be low and of an humble Spirit with the lowly, then to divide the Spoil with the proud,</hi> ver. 19. Things gotten by Violence, are of short du<g ref="char:EOLhyphen"/>ration; or at least, are no sooner gained, but the possessor is snatched away from them in a moment; for Holy Writ tells us, That <hi>the Wicked and Blood-thirsty Man shall not live out half his days:</hi> And where Ambition taints the Soul, there nothing is thought too cruel to gain those ends the Ambiti<g ref="char:EOLhyphen"/>ous Man aims at, though he is sure to have a Fall; which makes the Almighty Expostulate with them, <hi>viz. Have all the workers of Iniquity no knowledge? who eat up my people as they eat Bread, and call not upon the Lord,</hi> Psal. 14.4. <hi>They dye in Youth, and their life is amongst the unclean,</hi> Job 36.14. There is nothing like a good Conscience, to carry a Man
+<pb n="12" facs="tcp:171863:7"/>through all the Affairs of the world; to live a life <hi>void of offence, towards God and Man;</hi> which will bear us up in all afflictions; whilst the Guilty person trembles and faints under momentary sorrows, because he has a Storm within, that in hurry of Affairs, was not roused nor awaked; but when the Winds of Fear and Confusion rouse the angry Billows, then he sadly sees the lowly and meek are exceed<g ref="char:EOLhyphen"/>ing happy, while he is miserable: then may he truly say with <hi>Job,</hi> though in a different manner, <hi>viz. I was at ease, but he hath broken me asunder; he hath also taken me by the Neck and shaken me to pieces, and set me up for his Mark,</hi> Job 14.12.</p>
+            <p>These Considerations might move the minds of Men to consider in their highest Station, they are but Dust, and caution them to do Justice, love Mercy, and walk humbly with their God; since a proud and haughty mind, is an a<g ref="char:EOLhyphen"/>bomination to the Lord: <hi>The wicked man travelleth with pain all his days, and the number of his years is hidden to the op<g ref="char:EOLhyphen"/>pressor; a dreadful sound is in his ears; in his prosperity the destroyer shall come upon him; he believeth not he shall return into Darkness, and he is waited for of the Sword; he shall not depart out of Darkness; the Flame shall dry up his Bran<g ref="char:EOLhyphen"/>ches, and by the breath of his mouth shall be go away: Let not him that is deceived, trust in Vanity, for Vanity shall be his Recompence, it shall be accomplished before his time, and his Branch shall not be Green; he shall cut off his unripe Grapes as the Vine, and cast off his Flower as the Olive.</hi>
+            </p>
+            <p>Thus Holy Scripture has Characteriz'd the proud and Ambitious, who work Deceit to bring their designs to pass; for the Congregation of Hypocrites shall be desolate, and Fire shall consume the Tabernacles of Bribery; they con<g ref="char:EOLhyphen"/>ceive Mischief, and bring forth Vanity, <hi>Job</hi> 15, <hi>&amp;c.</hi> And to conclude, Though Wicked Men may flourish for a time, yet their end shall be bitterness, for their ways shall not prosper.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
